@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Atharva-Borawake
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently Student at MIT-ADT University, Pune
-- 💞️ I’m looking to collaborate on Full stack Web devlopment Projects.
-- 📫 How to reach me atharvaborawake95@gmail.com
+- Hi, I’m @Atharva-Borawake
+- I’m interested in Web Devlopment
+- I’m currently Student at MIT-ADT University, Pune
+- I’m looking to collaborate on Full stack Web devlopment Projects.
+- How to reach me atharvaborawake95@gmail.com
 
 --  Check Projects through repository --
 
